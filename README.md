@@ -1,5 +1,10 @@
 # 🏆 Quiz Arena
 
+## 🌐 Live Demo
+**Try it here:** https://quiz-arena-omega-navy.vercel.app
+
+> The backend runs on a free plan, so the first load may take up to a minute while it wakes up.
+
 A full stack online quiz platform. Users register, log in, take timed multiple-choice quizzes by category, see their score with an answer review, and compete on a global leaderboard.
 
 **Stack:** Django + Django REST Framework (backend API) · React + Vite (frontend) · SQLite (database) · JWT authentication
