@@ -2,6 +2,18 @@
 
 ## 🌐 Live Demo
 **Try it here:** https://quiz-arena-omega-navy.vercel.app
+## Screenshots
+| Login | Home |
+|---|---|
+| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) |
+
+| Quiz | Result |
+|---|---|
+| ![Quiz](screenshots/quiz.png) | ![Result](screenshots/result.png) |
+
+| Leaderboard | My History |
+|---|---|
+| ![Leaderboard](screenshots/leaderboard.png) | ![History](screenshots/history.png) |
 
 > The backend runs on a free plan, so the first load may take up to a minute while it wakes up.
 
